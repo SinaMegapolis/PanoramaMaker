@@ -1,0 +1,16 @@
+[
+{
+  "modid": "panoramamaker",
+  "name": "PanoramaMaker",
+  "description": "Standalone version of quark's panorama maker. Makes panorama pictures for main menu.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Vazkii and quat, for writing the code :^)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
